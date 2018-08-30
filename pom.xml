@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>spring-boot-datatables</name>
-    <name>Spring Data JPA sample with DataTables</name>
+    <description>Spring Data JPA sample with DataTables</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
