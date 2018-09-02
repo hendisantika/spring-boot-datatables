@@ -66,6 +66,6 @@ Advanced Page
 
 Scroll Page
 
-![Scroll Page](img/scroll.png "Scroll Page")
+![Scroll Page](img/scroller.png "Scroll Page")
 
 
