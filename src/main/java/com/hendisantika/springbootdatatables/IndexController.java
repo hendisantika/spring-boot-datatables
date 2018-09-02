@@ -16,24 +16,24 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 
 @Controller
-@RequestMapping("/")
+@RequestMapping
 public class IndexController {
-    @GetMapping
+    @GetMapping("/")
     String index() {
         return "index";
     }
 
-    @GetMapping("with-post")
+    @GetMapping("/with-post")
     String withPost() {
         return "with-post";
     }
 
-    @GetMapping("advanced")
+    @GetMapping("/advanced")
     String advanced() {
         return "advanced";
     }
 
-    @GetMapping("scroller")
+    @GetMapping("/scroller")
     String scroller() {
         return "scroller";
     }
