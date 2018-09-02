@@ -55,5 +55,17 @@ $('select#role_selector').change(function() {
 	table.columns(2).search(filter).draw();
 });
 ```
+Basic Page
 
 ![Home Page](img/home.png "Home Page")
+
+
+Advanced Page
+
+![Advanced Page](img/advanced.png "Advanced Page")
+
+Scroll Page
+
+![Scroll Page](img/scroll.png "Scroll Page")
+
+
